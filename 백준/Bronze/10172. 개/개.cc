@@ -1,12 +1,12 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
- 
-int main(int argc, char const *argv[]) {
-	printf("|\\_/|\n");
-	printf("|q p|   /}\n");
-	printf("( 0 )\"\"\"\\\n");
-	printf("|\"^\"`    |\n");
-	printf("||_/=\\\\__|\n");
+
+int main() 
+{
+    cout<<"|\\_/|"<<"\n";
+    cout<<"|q p|   /}"<<"\n";
+    cout<<"( 0 )\"\"\"\\"<<"\n";
+    cout<<"|\"^\"`    |"<<"\n";
+    cout<<"||_/=\\\\__|";
     
-	return 0;
 }
